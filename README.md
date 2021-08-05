@@ -1,6 +1,9 @@
-# piRNADisease
-The benchmark dataset is derived from piRDisease v1.0 (http://www.piwirna2disease.org/index.php) \cite{muhammad2019pirdisease}, 
+# DFL-PiDA
+Deep Feature Learning for Piwi-interacting RNA-Disease Association Prediction via Convolutional Denoising Autoencoder Neural Network
+# Data description
+benchmark dataset: derived from piRDisease v1.0 (http://www.piwirna2disease.org/index.php), 
 which contains 7939 known associations between 4796 piRNAs and 28 diseases from manually curated experiments. 
+
 In this study, the detailed dataset we used can be specifically described as follows:
 where $ \pi ^{p} $ represents the positive samples containing 5002 association pairs between 4350 piRNAs and 21 diseases, 
 $ \pi ^{n} $ represents the negative samples containing the same 5002 association pairs,
